@@ -16,15 +16,6 @@ I love:
 
 ---
 
-## 📊 Verified GitHub Stats (2025)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-58-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Contributions-509-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories%20Contributed%20To-8-00008B?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
 
 ## 🪄 GitHub Summary Cards
 
